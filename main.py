@@ -47,3 +47,5 @@ draw_lines( m, screen, color )
 
 
 display(screen)
+
+print "final image is img.png"
