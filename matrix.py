@@ -11,8 +11,8 @@ def print_matrix( matrix ):
 
 def ident( matrix ):
     m = []
-    cols = len(matrix)
-    rows = len(matrix[0])
+    cols = 4
+    rows = 4
     for c in range( cols ):
         m.append([])
         for r in range( rows ):
